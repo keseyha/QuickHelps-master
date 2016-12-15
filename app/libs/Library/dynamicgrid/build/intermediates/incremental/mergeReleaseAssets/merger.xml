@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Library\I4\Software Engineering\Project\Source Code\QuickHelps\app\libs\Library\dynamicgrid\assets"/><source path="D:\Library\I4\Software Engineering\Project\Source Code\QuickHelps\app\libs\Library\dynamicgrid\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\Library\I4\Software Engineering\Project\Source Code\QuickHelps\app\libs\Library\dynamicgrid\src\release\assets"/></dataSet></merger>

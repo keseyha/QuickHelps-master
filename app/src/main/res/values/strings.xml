@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuickHelps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="setting">Setting</string>
+    <string name="helps_and_feedback">Helps and feedback</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="description">Description:</string>
+    <string name="tel">Tel:</string>
+    <string name="add_from_contact">Add from contact</string>
+</resources>
